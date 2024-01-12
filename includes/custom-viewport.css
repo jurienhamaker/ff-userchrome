@@ -1,0 +1,12 @@
+#browser {
+	background: var(--uc-base-colour) !important;
+}
+
+#browser #appcontent {
+	padding: 2px;
+}
+
+#browser #appcontent #tabbrowser-tabbox {
+	overflow: hidden;
+	border-radius: 6px;
+}

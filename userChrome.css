@@ -20,7 +20,7 @@
   #sidebar-select-box,
   .browser-sidebar2,
   tab.tabbrowser-tab * {
-    background-color: #000 !important;
+    background-color: #060407 !important;
   }
 }
 @media (prefers-color-scheme: light) {
@@ -843,7 +843,7 @@ tab,
   transform-origin: top !important;
   transition: transform 0.1s ease-in-out 0.6s !important;
   z-index: 2 !important;
-  background: #000 !important;
+  background: #060407 !important;
 }
 
 /* Bookmark item padding and icon transition */
